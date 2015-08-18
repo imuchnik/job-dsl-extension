@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke:asm3:3.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/asm3/3.3.0/99d8f8e4bce5cbad5812e95cacdf388a37893fdd/asm3-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/asm3/3.3.0/f3c4978ca5a3ca62f0cf3f11e35c5c3c93e9f0a0/asm3-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

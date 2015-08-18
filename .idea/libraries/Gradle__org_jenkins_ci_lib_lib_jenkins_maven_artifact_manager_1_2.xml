@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.lib:lib-jenkins-maven-artifact-manager:1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/lib/lib-jenkins-maven-artifact-manager/1.2/lib-jenkins-maven-artifact-manager-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

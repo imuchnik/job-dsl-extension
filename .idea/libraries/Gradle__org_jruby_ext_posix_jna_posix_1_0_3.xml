@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jruby.ext.posix:jna-posix:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby.ext.posix/jna-posix/1.0.3/f480f20e540f1fa1e8ffcc5a1907b625b8da621c/jna-posix-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby.ext.posix/jna-posix/1.0.3/5b26b9b656dc49f7b6b3167114252572a74f072f/jna-posix-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

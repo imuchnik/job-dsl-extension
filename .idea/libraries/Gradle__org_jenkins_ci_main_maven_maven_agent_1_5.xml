@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.main.maven:maven-agent:1.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/main/maven/maven-agent/1.5/maven-agent-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

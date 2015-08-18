@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.modules:windows-slave-installer:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.modules/windows-slave-installer/1.4/7f33383a9dcea75cb25a2ba802d9f411ec255d58/windows-slave-installer-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.modules/windows-slave-installer/1.4/8f62f735f7b733958ecf58bba5c5e72f1998385f/windows-slave-installer-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

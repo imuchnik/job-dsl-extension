@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Plugin-Dependencies: job-dsl:1.33;resolution:=optional
+Long-Name: Job DSL Extension
+Group-Id: hudson.plugin.extensions
+Support-Dynamic-Loading: true
+Resource-Path: /Users/muchniki/dev/job-dsl-extension/src/main/webapp
+Libraries: /Users/muchniki/dev/job-dsl-extension/src/main/resources,/U
+ sers/muchniki/dev/job-dsl-extension/build/classes/main,/Users/muchnik
+ i/dev/job-dsl-extension/build/resources/main,/Users/muchniki/.gradle/
+ caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.11/f6b3
+ 4997d04c1538ce451d3955298f46fdb4dbd4/groovy-all-2.3.11.jar,/Users/muc
+ hniki/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/job-d
+ sl-core/1.34/f3023bd2721a35d39f18ea25b6b2edee487fe228/job-dsl-core-1.
+ 34.jar,/Users/muchniki/.gradle/caches/modules-2/files-2.1/org.apache.
+ ivy/ivy/2.2.0/f9d1e83e82fc085093510f7d2e77d81d52bc2081/ivy-2.2.0.jar,
+ /Users/muchniki/.gradle/caches/modules-2/files-2.1/xmlunit/xmlunit/1.
+ 4/d1b703573ac51bf425e9451f611a6d5fb55587bf/xmlunit-1.4.jar,/Users/muc
+ hniki/.gradle/caches/modules-2/files-2.1/xmlpull/xmlpull/1.1.3.1/2b8e
+ 230d2ab644e4ecaa94db7cdedbc40c805dfa/xmlpull-1.1.3.1.jar,/Users/muchn
+ iki/.gradle/caches/modules-2/files-2.1/xpp3/xpp3_min/1.1.4c/19d4e90b4
+ 3059058f6e056f794f0ea4030d60b86/xpp3_min-1.1.4c.jar
+Plugin-Version: 1.0-SNAPSHOT (private-08/18/2015 01:23-muchniki)
+Jenkins-Version: 1.565
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin
+Short-Name: job-dsl-extension
+Compatible-Since-Version: 1.36
+Plugin-Developers: Daniel Davis:ooblioob:Daniel.Davis@cfpb.gov,Irina M
+ uchnik:Irina Muchnik:irina.muchnik@cfpb.gov
+

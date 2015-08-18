@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.acegisecurity:acegi-security:1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.acegisecurity/acegi-security/1.0.7/72901120d299e0c6ed2f6a23dd37f9186eeb8cc3/acegi-security-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.acegisecurity/acegi-security/1.0.7/80756ccad4d622c4d3b86d35825e51cba1cdff4e/acegi-security-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

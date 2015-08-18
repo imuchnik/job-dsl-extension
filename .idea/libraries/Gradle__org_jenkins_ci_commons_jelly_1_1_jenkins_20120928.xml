@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci:commons-jelly:1.1-jenkins-20120928">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/commons-jelly/1.1-jenkins-20120928/commons-jelly-1.1-jenkins-20120928.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

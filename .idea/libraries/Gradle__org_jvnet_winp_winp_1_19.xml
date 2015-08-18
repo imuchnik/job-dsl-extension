@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.winp:winp:1.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.winp/winp/1.19/1f474a09dc1a2bc9238e24aa59b4c8850e1ad300/winp-1.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.winp/winp/1.19/5dc6a0b2581e7346d4126e82c327d338951432d5/winp-1.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

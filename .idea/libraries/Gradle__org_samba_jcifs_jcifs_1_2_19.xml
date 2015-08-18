@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.samba.jcifs:jcifs:1.2.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.samba.jcifs/jcifs/1.2.19/333384030132b83c87943b5a03c8b4b307738ffa/jcifs-1.2.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.samba.jcifs/jcifs/1.2.19/d520258b21a3585d98ee086cb2477d22f4a40055/jcifs-1.2.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

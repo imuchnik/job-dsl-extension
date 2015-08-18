@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.svnkit:svnkit:1.7.6-jenkins-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/svnkit/svnkit/1.7.6-jenkins-1/svnkit-1.7.6-jenkins-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

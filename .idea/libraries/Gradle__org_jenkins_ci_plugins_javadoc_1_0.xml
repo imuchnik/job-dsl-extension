@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:javadoc:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/javadoc/1.0/e6b2a6e690c057eba6f3152f2538fea5a4f62ec3/javadoc-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/javadoc/1.0/b088342e9c2612a75421feb323d8a589bb72d4fd/javadoc-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

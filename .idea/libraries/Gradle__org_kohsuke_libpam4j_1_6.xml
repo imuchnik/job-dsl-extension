@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke:libpam4j:1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/libpam4j/1.6/d2cc93c1ceb31d823a0fce3d2464593e9388c181/libpam4j-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/libpam4j/1.6/56ef09165c143139da073fe5ec071a827e2932f9/libpam4j-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

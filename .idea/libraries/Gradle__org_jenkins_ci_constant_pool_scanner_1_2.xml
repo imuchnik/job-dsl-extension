@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci:constant-pool-scanner:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/constant-pool-scanner/1.2/e5e0b7c7fcb67767dbd195e0ca1f0ee9406dd423/constant-pool-scanner-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/constant-pool-scanner/1.2/5b8ab9dcd0d4572eeca9538ff5e76aac90a5a5e4/constant-pool-scanner-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

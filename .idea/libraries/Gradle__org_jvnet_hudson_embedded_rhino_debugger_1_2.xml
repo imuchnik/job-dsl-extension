@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:embedded-rhino-debugger:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/embedded-rhino-debugger/1.2/cdc2c2c9daeb46bdb7eb994730dfdb844efd96a9/embedded-rhino-debugger-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/embedded-rhino-debugger/1.2/1a3ad48cb00c1535005d39e845b2f3ad48fb5c54/embedded-rhino-debugger-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

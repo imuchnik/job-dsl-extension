@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:ant:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/ant/1.2/2d06320deb68af6efb5f17cbbed5711b69fcc056/ant-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/ant/1.2/e0e7be06e3da857d84641488635cfa4439eb6197/ant-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

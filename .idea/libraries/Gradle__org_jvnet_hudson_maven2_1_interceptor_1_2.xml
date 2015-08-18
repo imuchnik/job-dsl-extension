@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:maven2.1-interceptor:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/maven2.1-interceptor/1.2/46814f9b5109da80ed956f0f693c9079a4f26c0d/maven2.1-interceptor-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/maven2.1-interceptor/1.2/574d1bb43e0ca3f85877811eef60aea93959da6/maven2.1-interceptor-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

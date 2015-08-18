@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.main:maven-plugin:2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/maven-plugin/2.3/1ced97850efe419305f8cca478568c9dec4bc2eb/maven-plugin-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/maven-plugin/2.3/9c67a83d00b771e679c17acf068de913aa89e2e3/maven-plugin-2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

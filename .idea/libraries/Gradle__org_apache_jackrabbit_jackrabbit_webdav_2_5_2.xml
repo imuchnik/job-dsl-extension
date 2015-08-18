@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.jackrabbit:jackrabbit-webdav:2.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-webdav/2.5.2/bcbe3cf84ae38a925665da86d40637b923131731/jackrabbit-webdav-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-webdav/2.5.2/ddd4f97ac93d7f07fbe098939cf1c00cc1094dcb/jackrabbit-webdav-2.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke:trilead-putty-extension:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/trilead-putty-extension/1.2/f2f41517e1f73be8e319da27a69e0dc0c524bf6/trilead-putty-extension-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/trilead-putty-extension/1.2/d7f71d1d8e343bc436ef581ec14c2ad03f1a8fc/trilead-putty-extension-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

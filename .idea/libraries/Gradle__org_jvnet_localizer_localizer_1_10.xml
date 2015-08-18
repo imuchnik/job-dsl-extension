@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.localizer:localizer:1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.10/718c3b66b51651be4cc66cec8ca83bfb7c6ced1b/localizer-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.10/617ff5dc944854464716873f44aba92443f3c2ea/localizer-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

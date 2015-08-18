@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.aether:aether-transport-wagon:0.9.0.M3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-wagon/0.9.0.M3/716180a1d943a83a650488c01d17737439cbca7e/aether-transport-wagon-0.9.0.M3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-wagon/0.9.0.M3/da79c67cf8d04baee2676eb3ecd796d2a179a549/aether-transport-wagon-0.9.0.M3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

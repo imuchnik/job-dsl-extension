@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:xstream:1.4.7-jenkins-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/xstream/1.4.7-jenkins-1/xstream-1.4.7-jenkins-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

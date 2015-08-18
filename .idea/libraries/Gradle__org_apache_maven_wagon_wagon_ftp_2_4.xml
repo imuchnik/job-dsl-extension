@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.wagon:wagon-ftp:2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-ftp/2.4/19a2a2abf8f2fdf053ebfaf4bbd890a07b0ff845/wagon-ftp-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-ftp/2.4/f08495d4f9f05bb7cb5ab8074eb6d928a712b76c/wagon-ftp-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

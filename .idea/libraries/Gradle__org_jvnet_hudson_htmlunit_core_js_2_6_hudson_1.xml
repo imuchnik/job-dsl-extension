@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:htmlunit-core-js:2.6-hudson-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/htmlunit-core-js/2.6-hudson-1/8d3d91bfb84accf8a745df48bbff43809d7d419d/htmlunit-core-js-2.6-hudson-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/htmlunit-core-js/2.6-hudson-1/24208b422066fce2082d47cde88728437f9c9917/htmlunit-core-js-2.6-hudson-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.wagon:wagon-ssh-common:2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-ssh-common/2.4/b24e47819a91f8066949e315551bb024cd1f58a8/wagon-ssh-common-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.wagon/wagon-ssh-common/2.4/2bf6ec71d95f75d4918c6d4efc0f19a11697a82/wagon-ssh-common-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:test-annotations:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/test-annotations/1.0/9c262a3745a1df115e742ae8c34b89974acce422/test-annotations-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/test-annotations/1.0/80adb3dd4671bf6b8db544a6dda8e74c5e5bb8c7/test-annotations-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

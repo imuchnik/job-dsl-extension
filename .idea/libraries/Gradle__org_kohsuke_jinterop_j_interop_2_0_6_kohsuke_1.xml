@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke.jinterop:j-interop:2.0.6-kohsuke-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke.jinterop/j-interop/2.0.6-kohsuke-1/b2e243227608c1424ab0084564dc71659d273007/j-interop-2.0.6-kohsuke-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke.jinterop/j-interop/2.0.6-kohsuke-1/8aee4a4dd784228e724dda1ff209a524c56034f/j-interop-2.0.6-kohsuke-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

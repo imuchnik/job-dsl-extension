@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:netx:0.5-hudson-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/netx/0.5-hudson-2/d255ca40c49aa2db75e232a66ad82130c6d56948/netx-0.5-hudson-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/netx/0.5-hudson-2/95640b651c694a59f9759ffed65c749b3cb6d6f8/netx-0.5-hudson-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

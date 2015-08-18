@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:antisamy-markup-formatter:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/antisamy-markup-formatter/1.0/7dd2a195506b02dceb1f5bee097ee6d50fcac043/antisamy-markup-formatter-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/antisamy-markup-formatter/1.0/29fcf65350bd6a8ed1fb7078a0939d7a5bfbc23c/antisamy-markup-formatter-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

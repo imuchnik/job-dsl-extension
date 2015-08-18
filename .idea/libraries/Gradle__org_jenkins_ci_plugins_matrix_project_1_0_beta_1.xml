@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:matrix-project:1.0-beta-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/matrix-project/1.0-beta-1/9b03f8bee326253697acd3041ce2516e27a046a4/matrix-project-1.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/matrix-project/1.0-beta-1/bff11f5f914a6c819eb96f6b3f638c070862529/matrix-project-1.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

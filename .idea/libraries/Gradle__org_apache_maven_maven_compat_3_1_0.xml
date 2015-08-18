@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-compat:3.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-compat/3.1.0/b525e394e663ea876b1000b965e2fc46706dc36a/maven-compat-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-compat/3.1.0/31cb8b66cf252c709e798495cdd43130c8b4b839/maven-compat-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

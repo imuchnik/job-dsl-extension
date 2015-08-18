@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke:akuma:1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/akuma/1.9/52d4ab9047c52208df78f1694799f1f4a942c8a2/akuma-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/akuma/1.9/6afbac8f7ed782eff407fd933bc3069138ba256a/akuma-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

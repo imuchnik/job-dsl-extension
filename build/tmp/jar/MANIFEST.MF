@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Plugin-Dependencies: job-dsl:1.33;resolution:=optional
+Long-Name: Job DSL Extension
+Compatible-Since-Version: 1.36
+Plugin-Developers: Daniel Davis:ooblioob:Daniel.Davis@cfpb.gov,Irina M
+ uchnik:Irina Muchnik:irina.muchnik@cfpb.gov
+Group-Id: hudson.plugin.extensions
+Support-Dynamic-Loading: true
+Plugin-Version: 1.0-SNAPSHOT (private-08/18/2015 00:49-muchniki)
+Jenkins-Version: 1.565
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin
+Short-Name: job-dsl-extension
+

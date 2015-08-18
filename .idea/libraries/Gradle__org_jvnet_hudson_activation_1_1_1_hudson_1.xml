@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.hudson:activation:1.1.1-hudson-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/activation/1.1.1-hudson-1/7957d80444223277f84676aabd5b0421b65888c4/activation-1.1.1-hudson-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.hudson/activation/1.1.1-hudson-1/b7790fe88ef52879ad7d390715b28251aa114a66/activation-1.1.1-hudson-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

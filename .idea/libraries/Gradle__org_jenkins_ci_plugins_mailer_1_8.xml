@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:mailer:1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/mailer/1.8/7f725626171f6184412e937845d9616aff91c895/mailer-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/mailer/1.8/87372fd953a3fbd2d20fbb9b81dcbf79e44e0a38/mailer-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:subversion:1.45">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/subversion/1.45/8af3cba76ac2dc34b583cab1926e0d2a7ba0bb9c/subversion-1.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/subversion/1.45/531be6ac6e65d9f99b649628305704c414f1819b/subversion-1.45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

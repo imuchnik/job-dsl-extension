@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.libzfs:libzfs:0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.libzfs/libzfs/0.5/664ce46c0ce5e4ea1199a83d3971ee6c1e308815/libzfs-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.libzfs/libzfs/0.5/f4e4d1d34f85507def7f5f96648a3381e379340c/libzfs-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
